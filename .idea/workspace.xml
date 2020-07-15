@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="workupload:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aebc1f92-63e4-44e6-8612-78e296469228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-02.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-03.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-04.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-07.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-09.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-12.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/debug/log-debug-2020-07-14.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/error/log-error-2020-07-02.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/error/log-error-2020-07-03.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/error/log-error-2020-07-04.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/error/log-error-2020-07-07.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/error/log-error-2020-07-12.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-02.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-03.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-04.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-07.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-09.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-12.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/info/log-info-2020-07-14.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-02.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-03.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-04.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-07.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-09.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/warn/log-warn-2020-07-12.0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/recevie.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/recevie.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/indexuser.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/indexuser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/student/sysDescription.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/teacher/addjob.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/teacher/addjob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/student/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/student/student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/teacher/teacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/teacher/teacher.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1e9mRJ4B2D3PyHhRMxq057XMTbd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593691932129" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/workupload/workupload" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\软件\程序设计\作业\workupload\workupload\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\软件\程序设计\作业\workupload\workupload\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.351">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/workupload/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="WorkuploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="workupload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.submit.WorkuploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.351" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.351" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.html" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="workupload:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/workupload_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_workupload" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53928" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="workupload:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="Spring Boot.WorkuploadApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.351" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aebc1f92-63e4-44e6-8612-78e296469228" name="Default Changelist" comment="" />
+      <created>1593690784177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593690784177</updated>
+      <workItem from="1593690789323" duration="697000" />
+      <workItem from="1593742174659" duration="2713000" />
+      <workItem from="1593745621244" duration="2955000" />
+      <workItem from="1593755775493" duration="2920000" />
+      <workItem from="1593823087851" duration="5359000" />
+      <workItem from="1594022690765" duration="168000" />
+      <workItem from="1594082359493" duration="7553000" />
+      <workItem from="1594090250928" duration="3432000" />
+      <workItem from="1594254867735" duration="11884000" />
+      <workItem from="1594516871280" duration="8267000" />
+      <workItem from="1594714840693" duration="1235000" />
+      <workItem from="1594716659365" duration="28000" />
+      <workItem from="1594716966423" duration="233000" />
+      <workItem from="1594718180337" duration="641000" />
+      <workItem from="1594718962763" duration="523000" />
+      <workItem from="1594719513846" duration="408000" />
+      <workItem from="1594719928851" duration="249000" />
+      <workItem from="1594720597353" duration="226000" />
+      <workItem from="1594720866599" duration="5946000" />
+      <workItem from="1594772375924" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="95" key="#Inspections" timestamp="1594535864363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1594535864363" />
+    <state x="361" y="75" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594720970856">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" width="1164" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1594720970856" />
+    <state x="724" y="161" key="FileChooserDialogImpl" timestamp="1594724744092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="724" y="161" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594724744092" />
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1594772840268">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594772840268" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.1.center" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.1.left" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1493" height="281" key="GridCell.Tab.1.right" timestamp="1594772840269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="281" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594772840269" />
+    <state width="1260" height="223" key="GridCell.Tab.2.bottom" timestamp="1594726821273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594726821273" />
+    <state width="1260" height="223" key="GridCell.Tab.2.center" timestamp="1594726821273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1594726821273" />
+    <state width="1260" height="223" key="GridCell.Tab.2.left" timestamp="1594726821273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1594726821273" />
+    <state width="1260" height="223" key="GridCell.Tab.2.right" timestamp="1594726821273">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1260" height="223" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1594726821273" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1594723293558">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594723293558" />
+    <state x="491" y="328" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594262984207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="328" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1594262984207" />
+  </component>
+</project>

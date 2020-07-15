@@ -1,0 +1,85 @@
+2020-07-04 10:53:45.723 [restartedMain] INFO  com.submit.WorkuploadApplication - Starting WorkuploadApplication on PC-20200229JKVB with PID 2696 (started by GYN in D:\软件\程序设计\作业\workupload\workupload)
+2020-07-04 10:53:45.737 [restartedMain] INFO  com.submit.WorkuploadApplication - The following profiles are active: upload
+2020-07-04 10:53:45.842 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-04 10:53:45.842 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-04 10:53:47.314 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'shiroConfig' of type [com.submit.config.ShiroConfig$$EnhancerBySpringCGLIB$$3adf761] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.324 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$779c72cc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.391 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties' of type [org.mybatis.spring.boot.autoconfigure.MybatisProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.399 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration' of type [org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration$$EnhancerBySpringCGLIB$$aa70c3fc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.409 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'druidConfig' of type [com.submit.config.DruidConfig$$EnhancerBySpringCGLIB$$58545ad2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.496 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'dataSource' of type [com.alibaba.druid.pool.DruidDataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.519 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:47.534 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker' of type [org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.081 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionFactory' of type [org.apache.ibatis.session.defaults.DefaultSqlSessionFactory] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.087 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'sqlSessionTemplate' of type [org.mybatis.spring.SqlSessionTemplate] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.089 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'studentMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.091 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'studentMapper' of type [com.sun.proxy.$Proxy63] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.096 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'teacherMapper' of type [org.mybatis.spring.mapper.MapperFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.097 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'teacherMapper' of type [com.sun.proxy.$Proxy65] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.098 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'userRealm' of type [com.submit.config.UserRealm] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:48.710 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'securityManager' of type [org.apache.shiro.web.mgt.DefaultWebSecurityManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-07-04 10:53:49.297 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-07-04 10:53:49.316 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-07-04 10:53:49.326 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-04 10:53:49.326 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-07-04 10:53:49.503 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-04 10:53:49.504 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3660 ms
+2020-07-04 10:53:49.869 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-04 10:53:50.155 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-07-04 10:53:50.435 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-07-04 10:53:50.470 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-07-04 10:53:50.493 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-04 10:53:50.497 [restartedMain] INFO  com.submit.WorkuploadApplication - Started WorkuploadApplication in 5.39 seconds (JVM running for 7.784)
+2020-07-04 10:54:09.281 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-04 10:54:09.281 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-04 10:54:09.292 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-07-04 10:54:26.126 [http-nio-8080-exec-7] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-07-04 10:54:26.430 [http-nio-8080-exec-8] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:31.078 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:32.163 [http-nio-8080-exec-1] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:33.622 [http-nio-8080-exec-1] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:35.673 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:37.905 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 10:54:38.504 [http-nio-8080-exec-4] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:16.946 [http-nio-8080-exec-9] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:21.459 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:26.100 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:43.184 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:43.190 [http-nio-8080-exec-2] INFO  com.submit.controller.fileController - 31701368 lll 123456 lll
+2020-07-04 13:49:50.991 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:51.091 [http-nio-8080-exec-1] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:54.498 [http-nio-8080-exec-10] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:54.610 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:49:54.613 [http-nio-8080-exec-2] INFO  com.submit.controller.teacherUserController - 1998000011
+2020-07-04 13:50:43.489 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:50:44.356 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:50:44.453 [http-nio-8080-exec-4] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:50:54.571 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:54:57.269 [http-nio-8080-exec-1] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:54:58.309 [http-nio-8080-exec-1] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:54:58.408 [http-nio-8080-exec-10] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:02.839 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:02.944 [http-nio-8080-exec-5] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:02.948 [http-nio-8080-exec-5] INFO  com.submit.controller.teacherUserController - 1998000011
+2020-07-04 13:55:04.942 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:10.823 [http-nio-8080-exec-7] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:14.000 [http-nio-8080-exec-7] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:15.399 [http-nio-8080-exec-7] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:15.494 [http-nio-8080-exec-8] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:16.790 [http-nio-8080-exec-6] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:16.891 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:16.894 [http-nio-8080-exec-2] INFO  com.submit.controller.teacherUserController - 1998000011
+2020-07-04 13:55:21.591 [http-nio-8080-exec-9] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:22.242 [http-nio-8080-exec-8] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:22.292 [http-nio-8080-exec-10] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:22.348 [http-nio-8080-exec-10] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:23.265 [http-nio-8080-exec-7] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:23.309 [http-nio-8080-exec-4] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:23.365 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:27.078 [http-nio-8080-exec-2] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:27.123 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:30.517 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:30.567 [http-nio-8080-exec-5] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:30.579 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:30.642 [http-nio-8080-exec-9] INFO  com.submit.config.UserRealm - 执行逻辑授权
+2020-07-04 13:55:54.423 [http-nio-8080-exec-3] INFO  com.submit.config.UserRealm - 执行逻辑授权
